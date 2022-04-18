@@ -1,0 +1,25 @@
+{
+  "name": "appsync-tailwind-vue-twitter-clone",
+  "private": true,
+  "version": "1.0.0",
+  "description": "twitter clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sls": "sls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asheniac/AppSync-Tailwind-vue-twitter-clone.git"
+  },
+  "author": "Ash CHEN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asheniac/AppSync-Tailwind-vue-twitter-clone/issues"
+  },
+  "homepage": "https://github.com/asheniac/AppSync-Tailwind-vue-twitter-clone#readme",
+  "devDependencies": {
+    "serverless": "2.4.0",
+    "serverless-appsync-plugin": "^1.13.0"
+  }
+}
